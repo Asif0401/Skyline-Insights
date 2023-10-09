@@ -1,7 +1,7 @@
 # Skyline-Insights
 
 ## Objective
-![Screenshot from 2023-10-09 16-04-17](https://github.com/Asif0401/Skyline-Insights/assets/84279029/0ab6659d-faa0-40bc-8b27-af0ac7d11fe2)
+![Screenshot from 2023-10-09 16-04-17](https://github.com/Asif0401/Skyline-Insights/assets/84279029/f94a8576-96e6-4607-9179-870b7445df80)
 
 
 As an aviation enthusiast, I always look forward to flying whenever I plan to travel. Since the Covid-19 pandemic ended, aviation market began to recover slowly from rock bottom ticket prices in peak of pandemic. With the war in Ukraine and rise in ATF prices, ticket prices have been through the roof reaching new high. As a result of this, I decided to do an exploratory data analysis for ticket prices to better understand the factors affecting them in India.
